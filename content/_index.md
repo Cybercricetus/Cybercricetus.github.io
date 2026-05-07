@@ -43,7 +43,7 @@ This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *
 ## 🛠️ Toolbox
 
 - **Languages** — Python · C / C++ · Java · CUDA · Verilog · JS / React · x86-64 ASM
-- **ML / AI Stack** — PyTorch · TensorFlow · Transformers · Ollama · vector DBs · Mem0
+- **ML / AI Stack** — PyTorch · TensorFlow · Transformers · Ollama · Vector DBs · Mem0
 - **Techniques** — SFT · LoRA / QLoRA · DPO · PPO / GRPO · RAG
 
 ## 🌱 Off the clock
