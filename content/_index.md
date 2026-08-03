@@ -17,7 +17,7 @@ This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *
   Highest GPA in the CSE department · 🏆 *Pearl Brownstein Senior Award*
 - 🔬 **Preference**: LLM, RL — currently into agents, RAG, and alignment (DPO / PPO / GRPO)
 - 🌏 Based in NYC · originally from China
-- 📝 Curriculum Vitae: [📥 Download PDF](./home_files/Xingyu_Mu_CV.pdf)
+- 📝 Curriculum Vitae: [📥 Download PDF](https://github.com/Cybercricetus/CVcricetus/releases/tag/latest)
 
 ## 📫 Find me at
 
