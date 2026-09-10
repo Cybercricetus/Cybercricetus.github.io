@@ -28,9 +28,9 @@ This is **Xingyu Mu** (穆星宇), you can call me **Terry Mu** if you believe *
 
 ## 💼 Recently
 
-- **Applied ML SWE Intern @ ByteDance** *(May – Aug 2025)*
+- **Applied ML SWE Intern @ ByteDance** *(Summer 2025)*
   Re-architected a personalized-LLM training pipeline into a resumable state machine, parallelized API-bound stages, added a cache-aware ChromaDB layer, and shipped a 4-judge auto-eval system scoring helpfulness / correctness / empathy / completeness.
-- **Teaching Assistant — CS-UY 3224 Operating Systems** @ NYU Tandon *(Sep 2024 – present)*
+- **Teaching Assistant — CS-UY 3224 Operating Systems** @ NYU Tandon *(Fall 2024)*
   Supporting 150+ students through C, x86, concurrency, and memory management.
 - **Research Assistant @ NYU AI4ce Lab** — multimodal street-data collection (MapNYC).
 
